@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "selenium-webdriver": "^4.1.0"
+  },
+  "name": "SeleniumTesting",
+  "version": "1.0.0",
+  "main": "pages/website.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jasmine": "^3.10.0"
+  }
+}
