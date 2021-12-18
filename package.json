@@ -1,0 +1,15 @@
+{
+  "name": "dropbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spec.js",
+  "scripts": {
+    "test": "node spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dropbox": "^10.23.0"
+  }
+}
